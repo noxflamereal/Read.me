@@ -95,7 +95,7 @@ Selected projects will be pinned here as they mature.
 
 ## 🔗 Social & Professional
 
-- **X:** [@NoxFlameReal]([](https://x.com/noxflamereal)
+- **X:** [@NoxFlameReal](https://x.com/noxflamereal)
 - **GitHub:** [NoxFlameReal](YOUR_GITHUB_PROFILE_URL)
 - **Email:** `nexusautonomous@gmail.com`
 
