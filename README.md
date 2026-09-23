@@ -31,7 +31,7 @@ My work sits at the intersection of AI, automation, software engineering, APIs, 
 
 **Development**
 `JavaScript` · `Node.js` · `Python` · `HTML` · `CSS`
-
+<img src="./banner.png" width="100%" alt="Nox Flame Banner" />
 **Infrastructure & Tools**
 `Git` · `GitHub` · `Cloudflare` · `Qdrant` · `Supabase` · `MCP`
 
@@ -97,6 +97,7 @@ Selected projects will be pinned here as they mature.
 
 - **X:** [@NoxFlameReal](https://x.com/noxflamereal)
 - **GitHub:** [NoxFlameReal](https://github.com/noxflamereal)
+-  **Reddit:** [NoxFlameReal](https://www.reddit.com/user/LeadOpsStudio/)
 - **Email:** `noxflamereal@gmail.com`
 
 ---
